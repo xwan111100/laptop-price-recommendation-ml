@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/sangeetavishwakarma/laptop-price-dataset
 
 ## 📓 Kaggle Notebook
 👉 Click here to view the full notebook:  
-**https://www.kaggle.com/code/USERNAME/NOTEBOOK-NAME**
+**(https://www.kaggle.com/code/xwan111100/laptop-price-recommendation-2026)**
 
 ---
 
